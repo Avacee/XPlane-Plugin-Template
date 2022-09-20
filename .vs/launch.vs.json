@@ -1,0 +1,13 @@
+{
+    "version": "0.2.1",
+    "defaults": {},
+    "configurations": [
+        {
+            "name": "CMakeLists.txt",
+            "project": "E:\\X-Plane 12\\x-plane.exe",
+            //"project": "${XPLANEDIR}\\x-plane.exe",
+            "projectTarget": "",
+            "type": "native"
+        }
+    ]
+}
